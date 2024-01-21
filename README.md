@@ -45,7 +45,7 @@ The seventh table compares the results considering the expenditure per student, 
 
 The eighth table splits the schools according to their sizes, while the last table compares the school types (either government or independent).
 
-Conclusions
+### Conclusions
 
 From the data available, we can conclude that:
 
